@@ -1,0 +1,33 @@
+
+
+#weeaboo {
+	background: url(1.jpg)  no-repeat;
+ 	width: 500px; 
+ 	height: 500px; 
+ 	color: red;
+ 	margin: 0 auto;
+ 	text-shadow: 1px 1px 1px #000;
+
+ }
+
+ #innerWeeaboo {
+
+ 	margin: 0 100px;
+ 	width: 300px;
+ 	height: 200px;
+ 	color: red;
+ }
+
+ #outerWeeaboo {
+ 	width: 500px;
+ 	height: 300px;
+ }
+
+ #newButton {
+ 	width: 140px;
+ 	height: 140px;
+ 	background-color: teal;
+
+ 	border-radius: 50%;
+
+ }
